@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sndquotation>
+    <TreeData>
+        <Data Name="Prisma PH">
+            <Item Config="Functional Unit" Ref="" Description="">
+                <Item Config="NW/MV30b-3200" Ref="" Description="">
+                    <Item Config="NW0to HBB" Ref="">
+                        <Item Config="NT06-10 drawable" Ref="" Description="">
+                            <Item Config="1" Ref="LSM58873V" Description="M M.PLATET" />
+                            <Item Config="2" Ref="LSM58917V" Description="DRAW " />
+                        </Item>
+                        <Item Config="NT12-16 drawable" Ref="" Description="">
+                            <Item Config="1" Ref="LSM58873V" Description=".D/O VERT"/>
+                        </Item>
+                    </Item>
+                </Item>
+            </Item>
+        </Data>
+    </TreeData>
+</Sndquotation>
