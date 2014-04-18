@@ -10,7 +10,7 @@
 #import "TreeViewNode.h"
 @interface XmlTestCell : UITableViewCell
 {
-
+    NSString *stttt;
 }
 @property (retain, nonatomic) IBOutlet UIButton *cellButton;
 @property (retain, nonatomic) IBOutlet UILabel *configLabel;
