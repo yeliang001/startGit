@@ -11,6 +11,7 @@
 @interface XmlTestCell : UITableViewCell
 {
     NSString *stttt;
+    NSString *sdsd;
 }
 @property (retain, nonatomic) IBOutlet UIButton *cellButton;
 @property (retain, nonatomic) IBOutlet UILabel *configLabel;
